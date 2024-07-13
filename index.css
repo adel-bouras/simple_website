@@ -2,6 +2,9 @@
     --primary: rgb(24, 185, 155);
     --secondary: rgb(36, 60, 59);
 }
+html {
+    scroll-behavior: smooth;
+}
 *{
     margin: 0;
     padding: 0;
